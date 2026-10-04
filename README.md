@@ -11,6 +11,7 @@
 ## Free Hosting
 - [GitHub Pages](https://pages.github.com/) - Host static websites directly from your repo.
 - [Vercel](https://vercel.com/) - Fast deployment for front-end frameworks.
+- [Shipvela](https://shipvela.com/) - Publish React, Vite and static websites from GitHub or a CLI; free Hobby includes 3 projects and 20 publishes/month.
 
 ## Contributing
 We welcome additions! Please submit a Pull Request to add your favorite free developer tool.
